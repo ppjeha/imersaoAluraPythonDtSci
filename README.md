@@ -3,7 +3,9 @@
 Este projeto é um estudo sobre análise de dados, visando oferecer uma abordagem prática para extrair insights e realizar previsões sobre o mercado financeiro. Utilizando ferramentas como Pandas, Plotly, Matplotlib, Yfinance, MplFinance e Prophet, este projeto proporciona uma base sólida para manipulação de dados e visualização de gráficos.
 
 ## Autor
-Pedro Paulo Jeha Bonaldo
+Este projeto é resultado de uma Imersão Python didática, realizada e ministrada pela Alura, proporcionando uma oportunidade de aprendizado prático para entusiastas de Python e análise de dados.
+
+A reprodução e execução, bem como dados obtidos, foram por mim (Pedro Paulo Jeha Bonaldo).
 
 ## Objetivo
 Este projeto tem como objetivo oferecer uma oportunidade de aprendizado prático sobre análise de dados, com foco em técnicas de manipulação de dados e visualização de informações.
@@ -32,6 +34,4 @@ Este projeto tem como objetivo oferecer uma oportunidade de aprendizado prático
 - **MplFinance:** Uma extensão da biblioteca Matplotlib especialmente projetada para visualização de dados financeiros, incluindo gráficos de velas. [Repositório mplfinance no GitHub](https://github.com/matplotlib/mplfinance)
 
 - **Prophet:** Uma biblioteca Python desenvolvida pelo Facebook para previsão de séries temporais baseada em modelos aditivos. [Repositório Prophet no GitHub](https://github.com/facebook/prophet)
-
-Este projeto é resultado de uma Imersão Python realizada pela Alura, proporcionando uma oportunidade de aprendizado prático para entusiastas de Python e análise de dados.
 
